@@ -1,3 +1,22 @@
+<div align="center">
+
+# 🌊 GeoMind by 山海
+
+**AI时代可信引擎治理基础设施**
+
+🔗 [主站](https://shanhai-geo.top) · [知识图谱](https://shanhai-geo.top/knowledge/) · [API](https://shanhai-geo.top/api/) · [llms.txt](https://shanhai-geo.top/llms.txt)
+
+[![GEO Knowledge Graph](https://img.shields.io/badge/GEO-Knowledge%20Graph-blue)](https://shanhai-geo.top)
+[![200 Knowledge Atoms](https://img.shields.io/badge/200-Atoms-green)](https://shanhai-geo.top/knowledge/)
+[![Schema.org](https://img.shields.io/badge/Schema.org-JSON--LD-orange)](https://shanhai-geo.top/api/schema-org.json)
+
+**📱 微信: `lewis7815671`** · **📧 contact@shanhai-geo.top**
+
+<img src="https://shanhai-geo.top/wechat-qrcode.jpg" alt="微信二维码" width="160"/>
+
+---
+</div>
+
 # GEOrank
 
 简体中文 | [English](README.en.md)
@@ -218,3 +237,17 @@ GEOrank 是一个面向生成式引擎优化的研究与工程项目，用于帮
 ## License
 
 软件代码采用 Apache-2.0。专家资料、姓名、肖像、品牌与内置首页内容适用额外的权利边界，详见 [DATA_LICENSE.md](DATA_LICENSE.md)。
+
+## 📱 联系与合作
+
+> **微信**: `lewis7815671`  
+> **邮箱**: contact@shanhai-geo.top  
+> **主站**: https://shanhai-geo.top
+
+<div align="center">
+
+<img src="https://shanhai-geo.top/wechat-qrcode.jpg" alt="微信二维码" width="200"/>
+
+**扫码添加微信 · lewis7815671**
+
+</div>
